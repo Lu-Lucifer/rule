@@ -1,8 +1,24 @@
 # 直连补充列表
 
-# 域名后缀匹配
+# 动态域名
 DOMAIN-SUFFIX,dyndns.com
 DOMAIN-SUFFIX,synology.me
+
+# 测速
 DOMAIN-SUFFIX,speedtest.net
+
+# 下载
 DOMAIN-SUFFIX,lzdown27.com
+
+# Apple
 DOMAIN-SUFFIX,apple.com
+
+# Cloudflare Tunnel
+DOMAIN-SUFFIX,argotunnel.com
+DOMAIN-SUFFIX,cftunnel.com
+DOMAIN,api.cloudflare.com
+DOMAIN-SUFFIX,cloudflareaccess.com
+
+# Cloudflare Tunnel 进程
+# PROCESS-NAME,cloudflared
+# PROCESS-NAME,cloudflared.exe
