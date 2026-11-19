@@ -1,5 +1,9 @@
 # 直连补充列表
 
+# 内网直连
+IP-CIDR,10.0.0.0/8,DIRECT,no-resolve
+IP-CIDR,100.91.0.0/10,DIRECT,no-resolve
+
 # 动态域名
 DOMAIN-SUFFIX,dyndns.com
 DOMAIN-SUFFIX,synology.me
